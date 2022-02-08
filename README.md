@@ -1,5 +1,5 @@
 # Personal-Projects
-MachineLearning.py  -  Product Reviews Analyzer Using Machine Learning
-Earthquake.py  -  Earthquake Tracker
-Movie.py  -  Movie Searcher
-TweetAnalyzer.py  -  Tweets Analyzer
+MachineLearning.py  -  Product Reviews Analyzer Using Machine Learning <br/>  
+Earthquake.py  -  Earthquake Tracker <br/>
+Movie.py  -  Movie Searcher <br/>
+TweetAnalyzer.py  -  Tweets Analyzer <br/>
